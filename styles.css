@@ -1,2 +1,12 @@
-
+.holder {
+      display: flex;
+      flex-wrap: wrap;
+	  justify-content: center;
+}
+.div1, .div2 {
+  flex: 0;
+}
+.div3{ 
+  width: 100%; 
+}
 /* Your CSS Code here. */
